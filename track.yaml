@@ -9,6 +9,9 @@ owner: acme
 developers:
 - bruno@instruqt.com
 instructors: []
+tags:
+- untitled
+- track
 idle_timeout: 300
 timelimit: 1200
 lab_config:
